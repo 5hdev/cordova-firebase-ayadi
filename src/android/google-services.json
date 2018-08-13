@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "865366264113-8bbv50tq9s1f2l9i8skt9ql530gif9iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dl.ayadi",
+            "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
+          }
+        },
+        {
           "client_id": "865366264113-g4a605jlu39pmi559fn5fb04giss1nfs.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865366264113-g4a605jlu39pmi559fn5fb04giss1nfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865366264113-c1eefp3bt3girn4tn5ie99a80irr7edl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dl.ayadi"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
